@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/393746/internal/books/9781449305444/current/code
+END
+s3_versioning.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/393746/internal/books/9781449305444/current/code/s3_versioning.py
+END
+ec2_tag_instance.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/393746/internal/books/9781449305444/current/code/ec2_tag_instance.py
+END
+ec2_sync_keypair.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/393746/internal/books/9781449305444/current/code/ec2_sync_keypair.py
+END
+s3_mfa_delete.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/393746/internal/books/9781449305444/current/code/s3_mfa_delete.py
+END
+s3_logging.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/393746/internal/books/9781449305444/current/code/s3_logging.py
+END
+s3_reduced_redundancy.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/393746/internal/books/9781449305444/current/code/s3_reduced_redundancy.py
+END
+s3_modify_metadata.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/393746/internal/books/9781449305444/current/code/s3_modify_metadata.py
+END
+s3_store_metadata_with_key.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/393746/internal/books/9781449305444/current/code/s3_store_metadata_with_key.py
+END
+ec2_import_ssh_keypair.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/393746/internal/books/9781449305444/current/code/ec2_import_ssh_keypair.py
+END
+s3_create_bucket.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/393746/internal/books/9781449305444/current/code/s3_create_bucket.py
+END
+ec2_associate_elastic_ip_address.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/393746/internal/books/9781449305444/current/code/ec2_associate_elastic_ip_address.py
+END
+s3_copy_object.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/393746/internal/books/9781449305444/current/code/s3_copy_object.py
+END
+ec2_easy_alarm.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/393746/internal/books/9781449305444/current/code/ec2_easy_alarm.py
+END
+s3_website.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/393746/internal/books/9781449305444/current/code/s3_website.py
+END
+ec2_find_all_running_instances.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/393746/internal/books/9781449305444/current/code/ec2_find_all_running_instances.py
+END
+s3_bucket_du.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/393746/internal/books/9781449305444/current/code/s3_bucket_du.py
+END
+ec2_get_console_output.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/393746/internal/books/9781449305444/current/code/ec2_get_console_output.py
+END
+ec2_custom_script_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/393746/internal/books/9781449305444/current/code/ec2_custom_script_server.py
+END
+ec2_custom_script_iam.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/393746/internal/books/9781449305444/current/code/ec2_custom_script_iam.py
+END
+ec2_clone_instance.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/393746/internal/books/9781449305444/current/code/ec2_clone_instance.py
+END
+ec2_blank.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/393746/internal/books/9781449305444/current/code/ec2_blank.py
+END
+s3_create_bucket_in_location.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/393746/internal/books/9781449305444/current/code/s3_create_bucket_in_location.py
+END
+ec2_attach_volume.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/393746/internal/books/9781449305444/current/code/ec2_attach_volume.py
+END
+s3_store_private_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/393746/internal/books/9781449305444/current/code/s3_store_private_data.py
+END
+ec2_launch_instance.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/393746/internal/books/9781449305444/current/code/ec2_launch_instance.py
+END
